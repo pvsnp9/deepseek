@@ -1,0 +1,69 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IPython history
+.profile_default/
+ipython_config.py
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+
+# Data files
+data/
+datasets/
+*.csv
+*.tsv
+*.json
+*.h5
+*.hdf5
+*.npz
+*.npy
+
+# Models and checkpoints
+models/
+checkpoints/
+*.ckpt
+*.pt
+*.pth
+
+# Logs
+logs/
+*.log
+
+# TensorBoard
+runs/
+
+# Results
+results/
+
+# Secrets or credentials
+*.env
+.env
+
+# MacOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
